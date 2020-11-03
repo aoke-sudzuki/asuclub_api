@@ -1,0 +1,21 @@
+{
+  "name": "asuclub",
+  "version": "1.0.0",
+  "description": "AsuClub — portal for cretivity peoples",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [
+    "AsuClub",
+    "AokeSudzuki",
+    "CreativityPortal"
+  ],
+  "author": "Aoke Sudzuki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "winston": "^3.3.3"
+  }
+}

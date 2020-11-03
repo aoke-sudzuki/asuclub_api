@@ -1,1 +1,1 @@
-# asuclub_app
+# AsuClub — portal for creativity people
